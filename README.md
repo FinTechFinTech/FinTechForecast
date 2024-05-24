@@ -1,4 +1,4 @@
-# LSTM NLP 股票漲跌分析
+# LSTM NLP Newsapi＋GPT 股票漲跌分析
 
 ## 概述
 
