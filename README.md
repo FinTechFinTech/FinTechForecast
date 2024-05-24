@@ -8,7 +8,7 @@
 
 在執行本專案之前，請確保已獲得以下兩個 API 的金鑰：
 
-- OpenAI API Key: 必須擁有 OpenAI 的 API 金鑰，用於訪問 GPT 模型進行自然語言處理。(https://openai.com/)
+- OpenAI API Key: 必須擁有 OpenAI 的 API 金鑰，用於訪問 GPT 模型進行自然語言處理。(https://platform.openai.com/api-keys)
 - NewsAPI API Key: 需要獲得 NewsAPI 的 API 金鑰，以獲取即時新聞數據進行分析。(https://newsapi.org/)
 
 ## 執行步驟
